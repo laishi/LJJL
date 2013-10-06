@@ -1,0 +1,124 @@
+@-ms-viewport
+{
+	width: 480px;
+}
+
+@-webkit-viewport
+{
+	width: 480px;
+}
+
+@-o-viewport
+{
+	width: 480px;
+}
+
+@-moz-viewport
+{
+	width: 480px;
+}
+
+@viewport
+{
+	width: 480px;
+}
+
+html
+{
+	background-color: #000000;
+}
+
+#page
+{
+	z-index: 1;
+	width: 480px;
+	min-height: 800px;
+	border-style: none;
+	border-color: transparent;
+	background: transparent url("../images/bg-480x800.jpg") no-repeat left top;
+}
+
+#u2646
+{
+	z-index: 2;
+	width: 480px;
+	height: 800px;
+	margin-right: -10000px;
+}
+
+#U2652_animation
+{
+	width: 480px;
+	height: 800px;
+}
+
+#u2647
+{
+	z-index: 3;
+	width: 80px;
+	height: 80px;
+	margin-right: -10000px;
+	margin-top: 394px;
+	left: 38px;
+}
+
+#u2648
+{
+	z-index: 4;
+	width: 80px;
+	height: 80px;
+	margin-right: -10000px;
+	margin-top: 314px;
+	left: 107px;
+}
+
+#u2649
+{
+	z-index: 5;
+	width: 80px;
+	height: 80px;
+	margin-right: -10000px;
+	margin-top: 289px;
+	left: 200px;
+}
+
+#u2649.MuseLinkActive
+{
+	margin: 289px -10000px 0px 0px;
+}
+
+#u2650
+{
+	z-index: 6;
+	width: 80px;
+	height: 80px;
+	margin-right: -10000px;
+	margin-top: 314px;
+	left: 293px;
+}
+
+#u2648.MuseLinkActive,#u2650.MuseLinkActive
+{
+	margin: 314px -10000px 0px 0px;
+}
+
+#u2651
+{
+	z-index: 7;
+	width: 80px;
+	height: 80px;
+	margin-right: -10000px;
+	margin-top: 394px;
+	left: 357px;
+}
+
+#u2647.MuseLinkActive,#u2651.MuseLinkActive
+{
+	margin: 394px -10000px 0px 0px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

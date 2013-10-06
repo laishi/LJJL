@@ -1,0 +1,115 @@
+<manifest alg="2" build="704" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="3837790900"/>
+    <file name="master_____.css" crc="396923305" ref="个人简介"/>
+    <file name="master_____2.css" crc="4148167170" ref="个人案例"/>
+    <file name="master_a-master.css" crc="3895782613" ref="index"/>
+    <file name="master_____3.css" crc="3862470249" ref="联系我吧"/>
+    <file name="master_____1.css" crc="3776850825" ref="常用软件"/>
+    <file name="master___.css" crc="4192447398" ref="首页"/>
+    <file name="index.css" crc="290372479" ref="index"/>
+    <file name="__.css" crc="4164429588" ref="首页"/>
+    <file name="____.css" crc="388080068" ref="个人简介"/>
+    <file name="____2.css" crc="4226966273" ref="个人案例"/>
+    <file name="____3.css" crc="4080261988" ref="联系我吧"/>
+    <file name="____1.css" crc="4043273089" ref="常用软件"/>
+  </folder>
+  <folder name="assets">
+    <folder name="刘建简介-1">
+      <folder name="edge_includes">
+        <file name="edge.2.0.1.min.js" crc="229416998" mt="1380912765000"/>
+        <file name="jquery-1.7.1.min.js" crc="4091143699" mt="1380912765000"/>
+      </folder>
+      <folder name="images">
+        <file name="icons_个人案例.png" crc="3855809962" mt="1380912765000"/>
+        <file name="icons_个人简介.png" crc="160426463" mt="1380912765000"/>
+        <file name="icons_常用软件.png" crc="3953178516" mt="1380912765000"/>
+        <file name="icons_联系我吧.png" crc="4272366784" mt="1380912765000"/>
+        <file name="icons_返回首页.png" crc="21077253" mt="1380912765000"/>
+        <file name="Poster.png" crc="4029938335" mt="1380912765000"/>
+        <file name="刘建简历-反色.png" crc="4238346887" mt="1380912765000"/>
+        <file name="刘建简历.png" crc="317959319" mt="1380912765000"/>
+      </folder>
+      <file name="刘建简介-1_edge.js" crc="4024714460" mt="1380912765000"/>
+      <file name="刘建简介-1_edgeActions.js" crc="315535513" mt="1380912765000"/>
+      <file name="刘建简介-1_edgePreload.js" crc="3799474394" mt="1380912765000"/>
+      <file name="刘建简介-1.html" crc="3758179201" mt="1380912765000"/>
+    </folder>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:首页:个人简介:常用软件:个人案例:联系我吧"/>
+    <file name="museutils.js" crc="3992981318" ref="index:首页:个人简介:常用软件:个人案例:联系我吧"/>
+    <file name="jquery.tobrowserwidth.js" crc="317228635" ref="index:首页:个人简介:常用软件:个人案例:联系我吧"/>
+    <file name="pie.js" crc="3827607177" ref="index:首页:个人简介:常用软件:个人案例:联系我吧"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:首页:个人简介:常用软件:个人案例:联系我吧"/>
+    <file name="webpro.js" crc="197321703" ref="首页:个人简介:常用软件:个人案例:联系我吧"/>
+    <file name="musewpdisclosure.js" crc="4285748861" ref="首页:个人简介:常用软件:个人案例:联系我吧"/>
+    <file name="form_check.php" crc="4259398763" ref="联系我吧"/>
+    <file name="form_throttle.php" crc="497742690" ref="联系我吧"/>
+    <file name="form-u7392.php" crc="3802789048" ref="联系我吧"/>
+  </folder>
+  <folder name="images">
+    <file name="bg-480x800.jpg" crc="466711787" ref="index"/>
+    <file name="bg-hand01.jpg" crc="4066782660" ref="首页:个人简介:常用软件:个人案例:联系我吧"/>
+    <file name="icons-notext_个人简介60x54.png" crc="169458436" ref="首页:个人简介:常用软件:个人案例:联系我吧"/>
+    <file name="icons-notext_个人简介60x64.png" crc="380396722" ref="首页:个人简介:常用软件:个人案例:联系我吧"/>
+    <file name="icons-notext_常用软件60x54.png" crc="4073646325" ref="首页:个人简介:常用软件:个人案例:联系我吧"/>
+    <file name="icons-notext_常用软件60x64.png" crc="3827079621" ref="首页:个人简介:常用软件:个人案例:联系我吧"/>
+    <file name="icons-notext_返回首页60x54.png" crc="397401729" ref="首页:个人简介:常用软件:个人案例:联系我吧"/>
+    <file name="icons-notext_返回首页60x64.png" crc="3957449127" ref="首页:个人简介:常用软件:个人案例:联系我吧"/>
+    <file name="icons-notext_个人案例60x54.png" crc="4111437419" ref="首页:个人简介:常用软件:个人案例:联系我吧"/>
+    <file name="icons-notext_个人案例60x64.png" crc="135944182" ref="首页:个人简介:常用软件:个人案例:联系我吧"/>
+    <file name="icons_个人案例60x64.png" crc="138798302" ref="首页:个人简介:常用软件:个人案例:联系我吧"/>
+    <file name="icons-notext_联系我吧60x54.png" crc="18818853" ref="首页:个人简介:常用软件:个人案例:联系我吧"/>
+    <file name="icons-notext_联系我吧60x64.png" crc="4102278134" ref="首页:个人简介:常用软件:个人案例:联系我吧"/>
+    <file name="照明设计师证书-封面.png" crc="210662027" ref="个人简介"/>
+    <file name="照明设计师证书-内页01.png" crc="264678579" ref="个人简介"/>
+    <file name="照明设计师证书-内页02.png" crc="4263653645" ref="个人简介"/>
+    <file name="ps128.png" crc="159690713" ref="常用软件"/>
+    <file name="ai128.png" crc="11692576" ref="常用软件"/>
+    <file name="ae128.png" crc="4077320530" ref="常用软件"/>
+    <file name="fl128.png" crc="212128972" ref="常用软件"/>
+    <file name="autodesk_maya.png" crc="3949903763" ref="常用软件"/>
+    <file name="blender.png" crc="4169371823" ref="常用软件"/>
+    <file name="autocad-icons.jpg" crc="172825873" ref="常用软件"/>
+    <file name="dialux-icons.jpg" crc="3846155031" ref="常用软件"/>
+    <file name="光之源01.jpg" crc="490271341" ref="个人案例"/>
+    <file name="光之源02.jpg" crc="3997564389" ref="个人案例"/>
+    <file name="花样光景.jpg" crc="4284021884" ref="个人案例"/>
+    <file name="iessanok.jpg" crc="406657839" ref="个人案例"/>
+    <file name="菜园坝桥头景观灯饰-00.jpg" crc="217664243" ref="个人案例"/>
+    <file name="菜园坝桥头景观灯饰-04.jpg" crc="486147133" ref="个人案例"/>
+    <file name="菜园坝桥头景观灯饰-01.jpg" crc="4195281788" ref="个人案例"/>
+    <file name="菜园坝桥头景观灯饰-02.png" crc="4078291557" ref="个人案例"/>
+    <file name="菜园坝桥头景观灯饰-05.jpg" crc="4182785967" ref="个人案例"/>
+    <file name="菜园坝桥头景观灯饰-03.jpg" crc="4078753365" ref="个人案例"/>
+    <file name="菜园坝桥头景观灯饰-06.png" crc="308912707" ref="个人案例"/>
+    <file name="二号线-03.jpg" crc="4125612698" ref="个人案例"/>
+    <file name="二号线-01.jpg" crc="481171245" ref="个人案例"/>
+    <file name="二号线-02.jpg" crc="3775653144" ref="个人案例"/>
+    <file name="二号线-05.png" crc="89445647" ref="个人案例"/>
+    <file name="二号线-06.png" crc="471413855" ref="个人案例"/>
+    <file name="世纪花城-01.jpg" crc="524435150" ref="个人案例"/>
+    <file name="世纪花城-02.jpg" crc="164313115" ref="个人案例"/>
+    <file name="世纪花城-03.jpg" crc="259277791" ref="个人案例"/>
+    <file name="世纪花城-04.jpg" crc="4160430698" ref="个人案例"/>
+    <file name="世纪花城-05.jpg" crc="3853049567" ref="个人案例"/>
+    <file name="世纪花城-02.png" crc="296550315" ref="个人案例"/>
+    <file name="合同.jpg" crc="177887376" ref="个人案例"/>
+    <file name="清真寺-01.jpg" crc="3850332224" ref="个人案例"/>
+    <file name="清真寺-02.jpg" crc="494558877" ref="个人案例"/>
+    <file name="清真寺-02.png" crc="294686854" ref="个人案例"/>
+    <file name="照度计算-01.png" crc="4093605863" ref="个人案例"/>
+    <file name="照度计算-02.png" crc="3980405654" ref="个人案例"/>
+    <file name="u7410-17.png" crc="192561699" ref="联系我吧"/>
+    <file name="u7410-17-r.png" crc="458734015" ref="联系我吧"/>
+    <file name="u7410-17-m.png" crc="473682875" ref="联系我吧"/>
+    <file name="u7410-17-fs.png" crc="3840936729" ref="联系我吧"/>
+  </folder>
+  <file name="index.html" crc="3904660678" mt="1381035398663"/>
+  <file name="首页.html" crc="4064870035" mt="1381036148741"/>
+  <file name="个人简介.html" crc="498414293" mt="1381035317704"/>
+  <file name="常用软件.html" crc="34077574" mt="1381035822690"/>
+  <file name="个人案例.html" crc="354418008" mt="1381036965827"/>
+  <file name="联系我吧.html" crc="445496931" mt="1381037222457"/>
+</manifest>
